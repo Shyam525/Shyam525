@@ -93,16 +93,21 @@ $ whoami
 ## 🏆 TROPHY CASE
  
 <div align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=Shyam525&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)
- 
+<img src="https://github-profile-trophy.vercel.app/?username=Shyam525&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" alt="GitHub Trophies"/>
 </div>
 ---
  
 ## 🔗 CONNECT
  
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makvana-shyam-5429b7232?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyam-makvana)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shyam525)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Twitter / X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/your-handle)
+ 
+<br/>
+> 💬 *Feel free to reach out — always open to collaborate and connect.*
+ 
 </div>
 ---
  
