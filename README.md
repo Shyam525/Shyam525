@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=220&section=header&text=SHYAM%20MAKVANA&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%86%92%20AI%20Engineer%20%7C%20Jamnagar%2C%20Gujarat&descSize=16&descAlignY=62&descColor=C4B5FD" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=🔥+Discipline+is+my+dopamine.;⚔️+Building+backend+systems+from+scratch.;🧠+No+tutorials.+Only+builds.+Only+reps.;💀+Jamnagar+%E2%86%92+Remote+Engineer+%E2%86%92+AI+%2F+ML;🚀+The+compound+effect+is+my+cheat+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=1100&color=7C3AED&center=true&vCenter=true&width=760&lines=CS+Student+%E2%86%92+Backend+Engineer+%E2%86%92+AI+Engineer;Node.js+%7C+Express+%7C+MongoDB+%7C+REST+APIs+%7C+WebSockets;Building+production-grade+systems.+Not+collecting+certificates.;Open+to+internships+%26+remote+collaborations;From+Jamnagar%2C+Gujarat+%E2%80%94+shipping+code+to+the+world." alt="Typing SVG" />
 </div>
 <br/>
 ---
@@ -96,31 +96,12 @@ $ whoami
 <img src="https://github-profile-trophy.vercel.app/?username=Shyam525&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" alt="GitHub Trophies"/>
 </div>
 ---
+
  
-## 🔗 CONNECT
- 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyam-makvana)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shyam525)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Twitter / X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/your-handle)
- 
-<br/>
-> 💬 *Feel free to reach out — always open to collaborate and connect.*
- 
-</div>
----
- 
-<div align="center">
-```
-"Someday" is not a day of the week.
-The clock is running. Ship something today.
-```
- 
-<br/>
+<!-- <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Shyam525&color=7C3AED&style=for-the-badge&label=ARENA+VISITORS)
  
-<br/>
+<br/> -->
 *Shyam Makvana • Jamnagar, Gujarat • Building in public • 2025*
  
 </div>
